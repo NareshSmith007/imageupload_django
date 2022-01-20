@@ -1,1 +1,2 @@
-Django Crud operation using Ajax with validation
+Django image upload
+
